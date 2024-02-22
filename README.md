@@ -147,4 +147,4 @@ A PISO shift register is a digital circuit that can accept parallel data and out
 
 4.Data Logging: PISO shift registers can serve as data logging elements where data from different sources is sequentially stored and later accessed for analysis or further processing.
 
-#### Source: https://www.geeksforgeeks.org/piso-shift-register/
+#### Reference: https://www.geeksforgeeks.org/piso-shift-register/
