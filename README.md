@@ -10,14 +10,15 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 
 📧 pavancgowda500@gmail.com 
 
-🌐 Connect with Me :https://www.linkedin.com/in/pavan-c-gowda-b11215231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🌐 Connect with Me :**[LinkedIn](https://www.linkedin.com/in/pavan-c-gowda-b11215231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
-
+<br />
+<br />
+<br />
+<br />
 
 # Research Internship on VSDSquadron Mini RISC-V Dev Board
-
-
-
+<br />
 ## BOARD SPECIFICATIONS
 
 |   Board   |   Name   | Description                |
@@ -40,13 +41,19 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 |      |   Sink Current per I/O Pin | 8 mA             |
 |    Clock speed  |   Processor  | 24 MHz             |
 |   Memory   |  SRAM  | 2kb onchip volatile sram,16kb external program memory        |
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
 
 
 ## Screenshots
+<br />
 
 #### git
 
@@ -55,7 +62,9 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 ```
 
 ![git](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/5318411a-e98c-4bba-bc94-a37f29328dc9)
-
+<br /><br />
+<br />
+<br />
 
 #### gtkwave
 
@@ -64,7 +73,10 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 ```
 
 ![gtkwave](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/78e67ccc-c09d-418a-a269-3543b5379f1b)
-
+<br />
+<br />
+<br />
+<br />
 
 #### iverilog
 
@@ -73,6 +85,10 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 ```
 
 ![iverilog](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/ca6bf311-cc1a-4141-968f-9099d833a80c)
+<br />
+<br />
+<br />
+<br />
 
 #### vim
 
@@ -80,6 +96,10 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
   sudo apt install vim
 ```
 ![vim](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/3d52236d-2dc8-4cca-93d8-ff5ff310e994)
+<br />
+<br />
+<br />
+<br />
 
 #### yosys
 
@@ -88,6 +108,18 @@ I am a passionate third-year student pursuing a degree in Electronics & Communic
 ```
 
 ![yosys](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/0c20c01c-d3e5-486d-99a8-4181186639dd)
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 
@@ -134,9 +166,17 @@ A PISO shift register is a digital circuit that can accept parallel data and out
 9.Data Transmission: The process of sending data from one device to another. PISO shift registers are commonly used in data transmission applications, converting parallel data into a serial format for efficient transmission over serial communication channels.
 
 10.Serial-to-Parallel Conversion: The process of converting serial data into parallel format. PISO shift registers can be used to load serial data and then output it in parallel, enabling the interfacing between serial and parallel systems.
-
+<br />
+<br />
+<br />
+<br />
+<br />
 ![piso](https://github.com/PavanCGowda/vsd_workshop/assets/101002213/3bd8b2ba-c9ed-41c8-ac12-42e2edb5490a)
-
+<br />
+<br />
+<br />
+<br />
+<br />
 ### Application of PISO Registers
 
 1.Serial Data Transmission: PISO shift registers are commonly used in applications where parallel data needs to be transmitted over a serial communication channel. By converting parallel data into a serial stream, PISO shift registers facilitate efficient data transmission and enable compatibility with serial protocols.
@@ -147,4 +187,4 @@ A PISO shift register is a digital circuit that can accept parallel data and out
 
 4.Data Logging: PISO shift registers can serve as data logging elements where data from different sources is sequentially stored and later accessed for analysis or further processing.
 
-#### Reference: https://www.geeksforgeeks.org/piso-shift-register/
+
