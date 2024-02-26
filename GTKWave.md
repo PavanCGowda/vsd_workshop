@@ -40,10 +40,11 @@
 ## PISO
 
 ```bash
-  $  iverilog pico.v tb_pico.v 
+  $  iverilog pico.v tb_pico.v     
   $  ./a.out
   $  gtkwave pico_wave.vcd
 ```
+Codes for [pico.v](https://github.com/PavanCGowda/vsd_workshop/blob/main/PISO_code/piso.v) & [tb_pico.v](https://github.com/PavanCGowda/vsd_workshop/blob/main/PISO_code/tb_piso.v)
 
 ####  Simulated GTKwave
 
